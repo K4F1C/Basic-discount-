@@ -1,0 +1,15 @@
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.csproj.AssemblyReference.cache
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.AssemblyInfoInputs.cache
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.AssemblyInfo.cs
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.csproj.CoreCompileInputs.cache
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\bin\Debug\net6.0\Discount program console.exe
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\bin\Debug\net6.0\Discount program console.deps.json
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\bin\Debug\net6.0\Discount program console.runtimeconfig.json
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\bin\Debug\net6.0\Discount program console.dll
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\bin\Debug\net6.0\ref\Discount program console.dll
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\bin\Debug\net6.0\Discount program console.pdb
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.dll
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\ref\Discount program console.dll
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.pdb
+C:\Users\Dax\Desktop\Apdzj\Discount program console\Discount program console\obj\Debug\net6.0\Discount program console.genruntimeconfig.cache
